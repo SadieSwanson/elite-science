@@ -1,0 +1,2 @@
+name,updateTime,type,subType,distanceToArrival,isMainStar,age,luminosity,surfaceTemperature,31 Cassiopeiae
+31 Cassiopeiae B,2018-03-15 16:23:36,Star,Neutron Star,19734.679688,,1216,VII,6887470,
